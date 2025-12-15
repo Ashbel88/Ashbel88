@@ -7,7 +7,7 @@ Hi there! I'm **Jerell Bell**, a passionate and aspiring game developer. Ever si
 # 🎓 Education
 
 **University of North Carolina at Charlotte**  
-*Expected Graduation: December 2025*  
+*Graduated: December 2025*  
 - **B.S. in Computer Science** (Concentration in AI, Robotics, and Gaming)  
 - **B.A. in Japanese Studies**  
 - **Certificate in Business Japanese**  
@@ -30,6 +30,10 @@ Hi there! I'm **Jerell Bell**, a passionate and aspiring game developer. Ever si
 - Role: Lead Game Designer & Programmer (Team of 3)  
 - Designed the overall concept and game mechanics  
 - Programmed core gameplay and developed level designs  
+
+### 🎮 Hoshizora Melody *(Unity)* 
+- Role: Game Designer & Programmer (Solo Project)
+- Designed & crafted gameplay mechanics
 
 ### 🚗 Axel’s All-Wheel Adventure *(GameMaker Studio)*
 - Role: Game Designer (Team of 4)  
